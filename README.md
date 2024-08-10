@@ -1,4 +1,3 @@
-# 💫 About Me:
 <br>👋 ¡Hola a todos!<br><br>🌟 Soy Karen Nina, tengo 26 años, soy una apasionada de la programación y la tecnología. <br><br>🎓 Actualmente, estoy a punto de finalizar la Tecnicatura en Desarrollo Web en la UNLaM. <br>A lo largo de mi formación académica, he realizado varios proyectos que pueden ver en mis repositorios. <br>Sigo perfeccionando mis conocimientos a través de cursos extracurriculares para mantenerme al día con las últimas tendencias y mejores prácticas de la industria.<br><br><br>🎯 Mi objetivo es seguir desarrollándome en el área de la Programación Backend y continuar creciendo y aportando valor.<br><br>👨‍💻 Si quieres saber más sobre mi, podes contactar conmigo por LinkedIn o enviarme un correo.<br><br>Mail de contacto: karen_nina4.0@hotmail.com<br><br>
 
 
