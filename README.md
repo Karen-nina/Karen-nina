@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola a todos!</h1>
 <br>🌟 Soy Karen Nina, tengo 26 años, soy una apasionada de la programación y la tecnología. <br><br>🎓 Actualmente, estoy a punto de finalizar la Tecnicatura en Desarrollo Web en la UNLaM. <br>A lo largo de mi formación académica, he realizado varios proyectos, algunos pueden verlos en mis repositorios. <br>Sigo perfeccionando mis conocimientos a través de cursos extracurriculares para mantenerme al día con las últimas tendencias y mejores prácticas de la industria.<br><br><br>🎯 Mi objetivo es seguir desarrollándome en el área de la Programación Backend y continuar creciendo y aportando valor.<br><br>👨‍💻 Si quieres saber más sobre mi, podes contactar conmigo por LinkedIn o enviarme un correo.<br><br>Mail de contacto: karen_nina4.0@hotmail.com<br><br>
 
-## Proyectos
+## Algunos de mis Proyectos
 
 | AppEntrenamiento                                                                     | Pregundatos                                     |
 |--------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -18,10 +18,9 @@
 
 
 
-## 🌐 Socials:
 ## LinkenIn
 <p align="left">
-<a href="linkedin.com/in/karen-nina-2905b3177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rocio-crespo-4a571a177" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karen-nina-2905b3177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rocio-crespo-4a571a177" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
