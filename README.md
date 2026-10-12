@@ -1,5 +1,28 @@
-<h1 align="center">👋 ¡Hola a todos!</h1>
-<br>🌟 Soy Karen Nina, tengo 26 años, soy una apasionada de la programación y la tecnología. <br><br>🎓 Actualmente, estoy a punto de finalizar la Tecnicatura en Desarrollo Web en la UNLaM. <br>A lo largo de mi formación académica, he realizado varios proyectos, algunos pueden verlos en mis repositorios. <br>Sigo perfeccionando mis conocimientos a través de cursos extracurriculares para mantenerme al día con las últimas tendencias y mejores prácticas de la industria.<br><br><br>🎯 Mi objetivo es seguir desarrollándome en el área de la Programación Backend y continuar creciendo y aportando valor.<br><br>👨‍💻 Si quieres saber más sobre mi, podes contactar conmigo por LinkedIn o enviarme un correo.<br><br>Mail de contacto: karen_nina4.0@hotmail.com<br><br>
+
+<h1>👋 ¡Hola! Soy Karen Nina</h1>
+
+<p>💻 Soy <strong>Técnica Universitaria en Desarrollo Web, graduada de la Universidad Nacional de La Matanza (UNLaM)</strong>, apasionada por la programación, el desarrollo de software y la tecnología.</p>
+
+<p>🎓 Durante mi formación universitaria adquirí conocimientos en desarrollo Full Stack, programación orientada a objetos, bases de datos relacionales y desarrollo de aplicaciones web.</p>
+
+<p>🛠️ <strong>Stack tecnológico:</strong><br>
+Java | Spring | Hibernate | C# | .NET | ASP.NET Core | PHP | Laravel | JavaScript | HTML | CSS | SQL | MySQL | Git
+</p>
+
+<p>🚀 Desarrollé proyectos académicos individuales y colaborativos, aplicando conocimientos de Backend y Frontend, integración de tecnologías web y resolución de problemas. Podés explorar algunos de ellos en mis repositorios.</p>
+
+<p>📚 Continúo perfeccionando mis conocimientos mediante formación complementaria y aprendizaje constante.</p>
+
+<p>🎯 <strong>Objetivo profesional:</strong> incorporarme al sector IT en posiciones Junior o Trainee, con especial interés en desarrollo Backend y Full Stack, y apertura a oportunidades en QA Testing, análisis funcional y soporte de aplicaciones.</p>
+
+<p>🤝 Me caracterizo por mi compromiso, pensamiento analítico, capacidad de adaptación y predisposición para aprender y trabajar en equipo.</p>
+
+<h3>📫 ¡Conectemos!</h3>
+
+<p>
+🔗 <a href="https://www.linkedin.com/in/karen-nina-2905b3177/">LinkedIn</a><br>
+✉️ <a href="mailto:karen_nina4.0@hotmail.com">Correo electrónico</a>
+</p>
 
 ## Algunos de mis Proyectos
 
