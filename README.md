@@ -1,54 +1,49 @@
+# 👋 ¡Hola! Soy Karen Nina
 
-<h1>👋 ¡Hola! Soy Karen Nina</h1>
+**Desarrollo de Software Junior | Backend Java | QA Testing | IT Trainee**
 
-<p>💻 Soy <strong>Técnica Universitaria en Desarrollo Web, graduada de la Universidad Nacional de La Matanza (UNLaM)</strong>, apasionada por la programación, el desarrollo de software y la tecnología.</p>
+Soy **Técnica Universitaria en Web** por la **Universidad Nacional de La Matanza (UNLaM)**, con el **plan de estudios completo y el título en trámite desde septiembre de 2026**.
 
-<p>🎓 Durante mi formación universitaria adquirí conocimientos en desarrollo Full Stack, programación orientada a objetos, bases de datos relacionales y desarrollo de aplicaciones web.</p>
+Me interesa mi primera oportunidad profesional en IT en **desarrollo de software, Backend Java, QA/Testing o soporte de aplicaciones**, en puestos Junior o Trainee.
 
-<p>🛠️ <strong>Stack tecnológico:</strong><br>
-Java | Spring | Hibernate | C# | .NET | ASP.NET Core | PHP | Laravel | JavaScript | HTML | CSS | SQL | MySQL | Git
-</p>
+## 🛠️ Tecnologías y herramientas
 
-<p>🚀 Desarrollé proyectos académicos individuales y colaborativos, aplicando conocimientos de Backend y Frontend, integración de tecnologías web y resolución de problemas. Podés explorar algunos de ellos en mis repositorios.</p>
+- **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate y Spring Security.
+- **Testing:** JUnit y pruebas unitarias.
+- **Bases de datos:** SQL, PostgreSQL y MySQL; conocimientos académicos de MongoDB.
+- **Trabajo colaborativo:** Git, GitHub, Scrum y metodologías ágiles.
+- **Otras tecnologías estudiadas:** JavaScript, HTML, CSS, PHP, Laravel, C# y ASP.NET Core.
 
-<p>📚 Continúo perfeccionando mis conocimientos mediante formación complementaria y aprendizaje constante.</p>
+## 🚀 Proyectos académicos
 
-<p>🎯 <strong>Objetivo profesional:</strong> incorporarme al sector IT en posiciones Junior o Trainee, con especial interés en desarrollo Backend y Full Stack, y apertura a oportunidades en QA Testing, análisis funcional y soporte de aplicaciones.</p>
+### Kelia — Plataforma web para la comunidad celíaca (2025)
 
-<p>🤝 Me caracterizo por mi compromiso, pensamiento analítico, capacidad de adaptación y predisposición para aprender y trabajar en equipo.</p>
+**Proyecto final integrador de UNLaM | Proyecto grupal | Participación principalmente Backend**
 
-<h3>📫 ¡Conectemos!</h3>
+Plataforma orientada a centralizar información sobre productos sin gluten, recetas, establecimientos y experiencias de usuarios. La propuesta incluye análisis de necesidades, documentación funcional, modelo de negocio y presentación del producto.
 
-<p>
-🔗 <a href="https://www.linkedin.com/in/karen-nina-2905b3177/">LinkedIn</a><br>
-✉️ <a href="mailto:karen_nina4.0@hotmail.com">Correo electrónico</a>
-</p>
+**Tecnologías del proyecto:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, MongoDB, React y Firebase. Su documentación contempla pruebas con JUnit y Mockito.
 
-## Algunos de mis Proyectos
+📁 [Repositorio Kelia](https://github.com/Karen-nina/Kelia) *(en preparación; pendiente de publicar código y documentación)*
 
-| AppEntrenamiento                                                                     | Pregundatos                                     |
-|--------------------------------------------------------------------------------------|-------------------------------------------------|
-| ![Imagen 1](/imagenes/entrenamiento.png)                                             | ![Imagen 2](/imagenes/pregundatos.png)          |
-| HTML - CSS- JavaScript - AJAX - Java - Spring Hibernate - Mockito - Maven - Tymeleaf | HTML - CSS- JavaScript - AJAX - PHP -  Mustache |
-|https://github.com/Karen-nina/AppEntrenamiento                                        |https://github.com/Karen-nina/Preguntados|
+### AppEntrenamiento
 
+Aplicación de entrenamiento desarrollada como proyecto académico grupal, con **Java, Spring Boot, Hibernate y tecnologías web**.
 
-| Pokedex                                         | Unflix                                        |
-|-------------------------------------------------|-----------------------------------------------|
-| ![Imagen 3](/imagenes/pokedex.png)              | ![Imagen 4](/imagenes/unflix.png)            |
-| HTML - CSS- JavaScript - PHP                    | HTML - CSS- JavaScript                        |
-|https://github.com/Karen-nina/Pokedex            | https://github.com/Karen-nina/Peliculas       |
+📁 [Ver AppEntrenamiento](https://github.com/Karen-nina/AppEntrenamiento)
 
+### Otros proyectos
 
+- [Preguntados](https://github.com/Karen-nina/Preguntados) — aplicación web de preguntas (PHP y JavaScript).
+- [Pokédex](https://github.com/Karen-nina/Pokedex) — práctica de desarrollo web.
+- [Unflix](https://github.com/Karen-nina/Unflix) — interfaz de catálogo audiovisual (HTML, CSS y JavaScript).
 
-## LinkenIn
-<p align="left">
-<a href="https://www.linkedin.com/in/karen-nina-2905b3177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rocio-crespo-4a571a177" height="30" width="40" /></a>
-</p>
+## 🤝 Experiencia y habilidades transferibles
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Además de mi formación técnica, soy **Enfermera Universitaria (UNLaM, 2019)**. Mi experiencia en salud fortaleció mi capacidad de trabajo interdisciplinario, documentación, atención al detalle y resolución de problemas.
 
----
-[![](https://visitcount.itsvg.in/api?id=Karen-nina&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫 Contacto
 
+- [LinkedIn](https://www.linkedin.com/in/karen-nina-2905b3177/)
+- [Correo electrónico](mailto:karen_nina4.0@hotmail.com)
+- **Disponibilidad:** full-time o part-time; presencial en CABA y alrededores, híbrida o remota.
