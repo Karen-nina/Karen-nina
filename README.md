@@ -24,7 +24,7 @@ Plataforma orientada a centralizar información sobre productos sin gluten, rece
 
 **Tecnologías del proyecto:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, MongoDB, React y Firebase. Su documentación contempla pruebas con JUnit y Mockito.
 
-📁 [Repositorio Kelia](https://github.com/Karen-nina/Kelia) *(en preparación; pendiente de publicar código y documentación)*
+📁 [Repositorio Kelia](https://github.com/Karen-nina/Kelia) 
 
 ### AppEntrenamiento
 
