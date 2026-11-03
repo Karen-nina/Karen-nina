@@ -24,7 +24,7 @@
 
 | Kelia — Plataforma para la comunidad celíaca (2025) | AppEntrenamiento |
 | :---: | :---: |
-| <a href="https://github.com/Karen-nina/Kelia"><img src="https://raw.githubusercontent.com/Karen-nina/Kelia/main/kelia-front-develop/public/img/inicio.jpg" alt="Kelia - inicio" width="350"></a> | <a href="https://github.com/Karen-nina/AppEntrenamiento"><img src="imagenes/entrenamiento.png" alt="AppEntrenamiento" width="350"></a> |
+| <a href="https://github.com/Karen-nina/Kelia"><img src="imagenes/kelia-home.png" alt="Kelia - inicio" width="350"></a> | <a href="https://github.com/Karen-nina/AppEntrenamiento"><img src="imagenes/entrenamiento.png" alt="AppEntrenamiento" width="350"></a> |
 | Plataforma colaborativa sobre productos sin gluten, recetas y establecimientos. **Proyecto final integrador grupal de UNLaM; participación principalmente Backend.** | Aplicación web para organizar entrenamientos, generar rutinas y acompañar el seguimiento físico. **Proyecto académico grupal.** |
 | **Java · Spring Boot · JPA/Hibernate · PostgreSQL · MongoDB · React · Firebase · JUnit · Mockito** | **Java · Spring MVC · Hibernate · MySQL · Thymeleaf · Bootstrap** |
 | 📁 [Ver repositorio](https://github.com/Karen-nina/Kelia) | 📁 [Ver repositorio](https://github.com/Karen-nina/AppEntrenamiento) |
@@ -33,7 +33,7 @@
 
 | Preguntados | Pokédex | Unflix |
 | :---: | :---: | :---: |
-| <a href="https://github.com/Karen-nina/Preguntados"><img src="imagenes/pregundatos.png" alt="Preguntados" width="230"></a> | <a href="https://github.com/Karen-nina/Pokedex"><img src="imagenes/pokedex.png" alt="Pokédex" width="230"></a> | <a href="https://github.com/Karen-nina/Unflix"><img src="imagenes/unflix.png" alt="Unflix" width="230"></a> |
+| <a href="https://github.com/Karen-nina/Preguntados"><img src="imagenes/pregundatos-home.png" alt="Preguntados" width="230"></a> | <a href="https://github.com/Karen-nina/Pokedex"><img src="imagenes/pokedex.png" alt="Pokédex" width="230"></a> | <a href="https://github.com/Karen-nina/Unflix"><img src="imagenes/unflix.png" alt="Unflix" width="230"></a> |
 | Juego web de preguntas | Práctica de desarrollo web | Interfaz de catálogo audiovisual |
 | PHP · JavaScript | Desarrollo web | HTML · CSS · JavaScript |
 | [Ver proyecto](https://github.com/Karen-nina/Preguntados) | [Ver proyecto](https://github.com/Karen-nina/Pokedex) | [Ver proyecto](https://github.com/Karen-nina/Unflix) |
