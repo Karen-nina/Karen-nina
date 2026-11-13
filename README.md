@@ -17,6 +17,13 @@
 </p>
 
 ---
+## 🛠️ Tecnologías y herramientas
+
+- **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, Spring Security.
+- **Testing:** JUnit y pruebas unitarias.
+- **Datos:** SQL, PostgreSQL, MySQL; conocimientos académicos de MongoDB.
+- **Colaboración:** Git, GitHub, Scrum y metodologías ágiles.
+- **Otras tecnologías estudiadas:** JavaScript, HTML, CSS, PHP, Laravel, C# y ASP.NET Core.
 
 ## 🚀 Proyectos académicos
 
