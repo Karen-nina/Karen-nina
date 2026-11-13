@@ -3,7 +3,7 @@
 <h3 align="center">Desarrollo de Software Junior | Backend Java | QA Testing | IT Trainee</h3>
 
 <p align="center">
-  🎓 Técnica Universitaria en Web — Universidad Nacional de La Matanza (UNLaM)<br>
+  🎓 Técnica Universitaria en Desarrollo Web — Universidad Nacional de La Matanza (UNLaM)<br>
   Plan de estudios completo · Título en trámite desde septiembre de 2026
 </p>
 
